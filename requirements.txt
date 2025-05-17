@@ -1,0 +1,6 @@
+PyJWT
+flask
+numpy
+joblib
+sqlalchemy
+scikit-learn
